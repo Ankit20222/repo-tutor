@@ -63,7 +63,3 @@ repo-tutor/
 │   └── templates.md          # on-disk formats for plan, progress, flashcards
 └── README.md
 ```
-
-## License
-
-MIT
